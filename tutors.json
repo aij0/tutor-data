@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Joonas Aijala",
+      "subject": "Programming",
+      "imageUrl": "https://raw.githubusercontent.com/aij0/tutor-data/blob/main/pictures/2.png",
+      "price": 400,
+      "priceCurrency": "EUR",
+      "lat": 60.1675,
+      "lng": 24.9311
+    },
+    {
+      "id": 2,
+      "name": "Matti Meikalainen",
+      "subject": "Math",
+      "imageUrl": "https://raw.githubusercontent.com/aij0/tutor-data/blob/main/pictures/3.png",
+      "price": 25,
+      "priceCurrency": "EUR",
+      "lat": 60.1799,
+      "lng": 24.9499
+    },
+    {
+      "id": 3,
+      "name": "Liisa Ylijoki",
+      "subject": "Math",
+      "imageUrl": "https://raw.githubusercontent.com/aij0/tutor-data/blob/main/pictures/4.png",
+      "price": 30,
+      "priceCurrency": "EUR",
+      "lat": 60.1944,
+      "lng": 24.9570
+    },
+    {
+      "id": 4,
+      "name": "Mikko Mainio",
+      "subject": "Chemistry",
+      "imageUrl": "https://raw.githubusercontent.com/aij0/tutor-data/blob/main/pictures/2.png",
+      "price": 30,
+      "priceCurrency": "EUR",
+      "lat": 60.185058397368095,
+      "lng": 24.94429176505121
+    },
+    {
+      "id": 5,
+      "name": "Pertti Paras",
+      "subject": "Swedish",
+      "imageUrl": "https://raw.githubusercontent.com/aij0/tutor-data/blob/main/pictures/3.png",
+      "price": 20,
+      "priceCurrency": "EUR",
+      "lat": 60.18710672158773,
+      "lng": 24.946605104848224
+    },
+    {
+      "id": 6,
+      "name": "Nadja Vorsa",
+      "subject": "Drawing",
+      "imageUrl": "https://raw.githubusercontent.com/aij0/tutor-data/blob/main/pictures/5.png",
+      "price": 50,
+      "priceCurrency": "EUR",
+      "lat": 60.186146579090156,
+      "lng": 24.959350961457883
+    }
+  ]
+  
